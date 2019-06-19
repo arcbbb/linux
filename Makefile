@@ -1,8 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
+# 5.2.0-rc1: change to 5.1 for buildroot
 VERSION = 5
-PATCHLEVEL = 2
+PATCHLEVEL = 1
 SUBLEVEL = 0
-EXTRAVERSION = -rc1
+EXTRAVERSION =
 NAME = Shy Crocodile
 
 # *DOCUMENTATION*
